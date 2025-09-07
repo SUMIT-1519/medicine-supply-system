@@ -1,0 +1,114 @@
+.b{
+    margin-top: 14%;
+}
+
+.abc
+{
+    width: 50%;
+    height: 60px;
+    background-color: white;
+    position: relative;
+    color: green;
+    border-radius: 17px;
+    border: 3px solid green;
+    font-size: 25px;
+    top: 100px;
+    margin-top: 50px;
+    display: block;
+    right: 60px;
+
+    transition:0.4s;
+
+
+
+}
+.abc:hover
+{
+    color:white;
+    background-color: green;
+    /* opacity: 0.5; */
+    border: 1px none black;
+    transform: scale(1.2);
+    margin-top: 50px;
+}
+.xyz
+{
+    width: 50%;
+    height: 60px;
+    background-color:white;
+    position: relative;
+    color: red;
+    border-radius: 17px;
+    border: 3px solid red;
+    font-size: 25px;
+    top: 100px;
+    margin-top: 30px;
+    display:block;
+    right: 60px;
+    text-align: left;
+    padding-left: 40px;
+    transition: 0.4s;
+    overflow: hidden;
+    cursor: pointer;
+}
+.xyz:hover
+{
+    color: white;
+    background-color: red;
+    /* opacity: 0.5; */
+    border: 1px none white;
+    transform: scale(1.1);
+    overflow: visible;
+}
+.xyz .popup {  
+    position:absolute;
+      top: 70px;
+      width: 100%;
+      text-align: left;
+      background: black;
+      padding: 10px;
+      opacity: 0;
+      transition: opacity .25s ease-in-out;
+    color:#fff;
+    z-index: 1; 
+    margin-left: -85;
+} 
+.xyz:hover .popup
+{
+    opacity:1;
+}
+
+
+.a
+{
+    width:55%;
+    height: 100%;
+    /* background-color: #3d3838;  */
+    /* background-color:#7fffd4; */
+    float: left;
+    
+    
+}
+
+.a::before{
+  content: '';
+  background: url('https://semidotinfotech.com/web/images/medicine-delivery-banner.jpg') 
+      no-repeat center center/cover;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100vw;
+  height: 1200px;
+  z-index: -1;
+}
+
+pre{
+    font-family: garamond, serif;
+    position: relative;
+    top: 150px;
+    font-size: 40px;
+    right: 100px;
+    color: white;
+    
+
+}

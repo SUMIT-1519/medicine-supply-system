@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2eb6359d.css",
+    "main.js": "/static/js/main.7513b927.js",
+    "static/media/Varad Pundlik.png": "/static/media/Varad Pundlik.76bdab6fc4d2cd192506.png",
+    "static/media/WhatsApp Image 2023-05-23 at 3.08.35 PM.jpeg": "/static/media/WhatsApp Image 2023-05-23 at 3.08.35 PM.eee43d351ea39db8d6eb.jpeg",
+    "static/media/614867ec-e223-4c02-be49-92b873d8885a.jpg": "/static/media/614867ec-e223-4c02-be49-92b873d8885a.dc172d32e6493e87d2d0.jpg",
+    "static/media/divyank.jpg": "/static/media/divyank.fe59c72d6fca782a4d8c.jpg",
+    "static/media/Screenshot 2023-05-23 141804.png": "/static/media/Screenshot 2023-05-23 141804.7a5644c1c6f3f0db2cd7.png",
+    "index.html": "/index.html",
+    "main.2eb6359d.css.map": "/static/css/main.2eb6359d.css.map",
+    "main.7513b927.js.map": "/static/js/main.7513b927.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eb6359d.css",
+    "static/js/main.7513b927.js"
+  ]
+}
